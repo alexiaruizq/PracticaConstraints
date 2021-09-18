@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  PracticaConstraints
 //
-//  Created by Alexia Ruiz Quiroz on 06/09/21.
+//  Created by Alexia Ruiz Quiroz on 08/09/21.
 //
 
 import UIKit
